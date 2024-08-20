@@ -1,0 +1,1263 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:icalendar-ruby
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Eivind Sulen-kalender i Canvas
+X-WR-CALDESC:Kalenderhendingar for brukaren Eivind Sulen
+BEGIN:VEVENT
+DTSTAMP:20240815T210700Z
+UID:event-calendar-event-1871487
+DTSTART:20240819T061500Z
+DTEND:20240819T080000Z
+CLASS:PUBLIC
+DESCRIPTION:Steder\n------\n\n[Auditorium] (http://rom.app.uib.no/romInfo/3
+ 57/M04)\, [Thormøhlens gate 51 (VilVite)] (http://maps.google.com/maps?f=
+ q&hl=no&q=Thormohlens%20gate%2051\,Bergen\,Norway)\n\n[Aktivt rom 2+3 - Ma
+ rineholmen] (https://use.mazemap.com/?v=1&campuses=uib&sharepoitype=identi
+ fier&config=uib-bergen&sharepoi=351:106O1)\, [Høyteknologisenteret] (http
+ s://link.mazemap.com/34NC9sKG)\n\nHendelsen blir automatisk generert og ve
+ dlikeholdt. Du kan ikke endre den herfra.\n\n##KADA-CANVAS-ID####172375602
+ 9##
+LOCATION:
+SEQUENCE:0
+SUMMARY:INF264: Kræsjkurs i Python frivillig [INF264]
+URL;VALUE=URI:https://mitt.uib.no/calendar?include_contexts=course_48632&mo
+ nth=08&year=2024#calendar_event_1871487
+X-ALT-DESC;FMTTYPE=text/html:<h3>Steder</h3>\n<div><a href="http://rom.app.
+ uib.no/romInfo/357/M04">Auditorium</a>\, <a href="http://maps.google.com/m
+ aps?f=q&amp\;hl=no&amp\;q=Thormohlens%20gate%2051\,Bergen\,Norway">Thormø
+ hlens gate 51 (VilVite)</a></div>\n<div><a href="https://use.mazemap.com/?
+ v=1&amp\;campuses=uib&amp\;sharepoitype=identifier&amp\;config=uib-bergen&
+ amp\;sharepoi=351:106O1">Aktivt rom 2+3 - Marineholmen</a>\, <a href="http
+ s://link.mazemap.com/34NC9sKG">Høyteknologisenteret</a></div>\n<br><hr>\n
+ <p>Hendelsen blir automatisk generert og vedlikeholdt. Du kan ikke endre d
+ en herfra.</p>\n<div style="display: none\;" data-kada-canvas-id="384830">
+ ##KADA-CANVAS-ID####1723756029##</div>
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240815T165000Z
+UID:event-calendar-event-1874000
+DTSTART:20240819T101500Z
+DTEND:20240819T120000Z
+CLASS:PUBLIC
+DESCRIPTION:Sted\n----\n\n[Stort auditorium] (http://rom.app.uib.no/romInfo
+ /351/209M3)\, [Høyteknologisenteret] (https://link.mazemap.com/34NC9sKG)\
+ n\nFagperson\n---------\n\n[Håkon Robbestad Gylterud] (http://www.uib.no/
+ user/uib/hgy040)\n\nHendelsen blir automatisk generert og vedlikeholdt. Du
+  kan ikke endre den herfra.\n\n##KADA-CANVAS-ID####1723740652##
+LOCATION:Stort auditorium\, Høyteknologisenteret
+SEQUENCE:0
+SUMMARY:INF226: Forelesning [INF226]
+URL;VALUE=URI:https://mitt.uib.no/calendar?include_contexts=course_48769&mo
+ nth=08&year=2024#calendar_event_1874000
+X-ALT-DESC;FMTTYPE=text/html:<h3>Sted</h3>\n<div><a href="http://rom.app.ui
+ b.no/romInfo/351/209M3">Stort auditorium</a>\, <a href="https://link.mazem
+ ap.com/34NC9sKG">Høyteknologisenteret</a></div>\n<h3>Fagperson</h3>\n<div
+ ><a href="http://www.uib.no/user/uib/hgy040">Håkon Robbestad Gylterud</a>
+ </div>\n<br><hr>\n<p>Hendelsen blir automatisk generert og vedlikeholdt. D
+ u kan ikke endre den herfra.</p>\n<div style="display: none\;" data-kada-c
+ anvas-id="383998">##KADA-CANVAS-ID####1723740652##</div>
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240815T165000Z
+UID:event-calendar-event-1874001
+DTSTART:20240821T061500Z
+DTEND:20240821T080000Z
+CLASS:PUBLIC
+DESCRIPTION:Sted\n----\n\n[Stort auditorium] (http://rom.app.uib.no/romInfo
+ /351/209M3)\, [Høyteknologisenteret] (https://link.mazemap.com/34NC9sKG)\
+ n\nFagperson\n---------\n\n[Håkon Robbestad Gylterud] (http://www.uib.no/
+ user/uib/hgy040)\n\nHendelsen blir automatisk generert og vedlikeholdt. Du
+  kan ikke endre den herfra.\n\n##KADA-CANVAS-ID####1723740652##
+LOCATION:Stort auditorium\, Høyteknologisenteret
+SEQUENCE:0
+SUMMARY:INF226: Forelesning [INF226]
+URL;VALUE=URI:https://mitt.uib.no/calendar?include_contexts=course_48769&mo
+ nth=08&year=2024#calendar_event_1874001
+X-ALT-DESC;FMTTYPE=text/html:<h3>Sted</h3>\n<div><a href="http://rom.app.ui
+ b.no/romInfo/351/209M3">Stort auditorium</a>\, <a href="https://link.mazem
+ ap.com/34NC9sKG">Høyteknologisenteret</a></div>\n<h3>Fagperson</h3>\n<div
+ ><a href="http://www.uib.no/user/uib/hgy040">Håkon Robbestad Gylterud</a>
+ </div>\n<br><hr>\n<p>Hendelsen blir automatisk generert og vedlikeholdt. D
+ u kan ikke endre den herfra.</p>\n<div style="display: none\;" data-kada-c
+ anvas-id="384003">##KADA-CANVAS-ID####1723740652##</div>
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240817T105400Z
+UID:event-calendar-event-1871488
+DTSTART:20240821T101500Z
+DTEND:20240821T120000Z
+CLASS:PUBLIC
+DESCRIPTION:Sted\n----\n\n[Stort auditorium] (http://rom.app.uib.no/romInfo
+ /351/209M3)\, [Høyteknologisenteret] (https://link.mazemap.com/34NC9sKG)\
+ n\nFagperson\n---------\n\n[Ketil Malde] (http://www.uib.no/user/uib/kma02
+ 6)\n\nHendelsen blir automatisk generert og vedlikeholdt. Du kan ikke endr
+ e den herfra.\n\n##KADA-CANVAS-ID####1723892058##
+LOCATION:Stort auditorium\, Høyteknologisenteret
+SEQUENCE:0
+SUMMARY:INF264: Forelesninger [INF264]
+URL;VALUE=URI:https://mitt.uib.no/calendar?include_contexts=course_48632&mo
+ nth=08&year=2024#calendar_event_1871488
+X-ALT-DESC;FMTTYPE=text/html:<h3>Sted</h3>\n<div><a href="http://rom.app.ui
+ b.no/romInfo/351/209M3">Stort auditorium</a>\, <a href="https://link.mazem
+ ap.com/34NC9sKG">Høyteknologisenteret</a></div>\n<h3>Fagperson</h3>\n<div
+ ><a href="http://www.uib.no/user/uib/kma026">Ketil Malde</a></div>\n<br><h
+ r>\n<p>Hendelsen blir automatisk generert og vedlikeholdt. Du kan ikke end
+ re den herfra.</p>\n<div style="display: none\;" data-kada-canvas-id="3848
+ 34">##KADA-CANVAS-ID####1723892058##</div>
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240817T105400Z
+UID:event-calendar-event-1871489
+DTSTART:20240822T121500Z
+DTEND:20240822T140000Z
+CLASS:PUBLIC
+DESCRIPTION:Sted\n----\n\n[Stort auditorium] (http://rom.app.uib.no/romInfo
+ /351/209M3)\, [Høyteknologisenteret] (https://link.mazemap.com/34NC9sKG)\
+ n\nFagperson\n---------\n\n[Ketil Malde] (http://www.uib.no/user/uib/kma02
+ 6)\n\nHendelsen blir automatisk generert og vedlikeholdt. Du kan ikke endr
+ e den herfra.\n\n##KADA-CANVAS-ID####1723892058##
+LOCATION:Stort auditorium\, Høyteknologisenteret
+SEQUENCE:0
+SUMMARY:INF264: Forelesninger [INF264]
+URL;VALUE=URI:https://mitt.uib.no/calendar?include_contexts=course_48632&mo
+ nth=08&year=2024#calendar_event_1871489
+X-ALT-DESC;FMTTYPE=text/html:<h3>Sted</h3>\n<div><a href="http://rom.app.ui
+ b.no/romInfo/351/209M3">Stort auditorium</a>\, <a href="https://link.mazem
+ ap.com/34NC9sKG">Høyteknologisenteret</a></div>\n<h3>Fagperson</h3>\n<div
+ ><a href="http://www.uib.no/user/uib/kma026">Ketil Malde</a></div>\n<br><h
+ r>\n<p>Hendelsen blir automatisk generert og vedlikeholdt. Du kan ikke end
+ re den herfra.</p>\n<div style="display: none\;" data-kada-canvas-id="3848
+ 35">##KADA-CANVAS-ID####1723892058##</div>
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240815T165000Z
+UID:event-calendar-event-1874002
+DTSTART:20240826T101500Z
+DTEND:20240826T120000Z
+CLASS:PUBLIC
+DESCRIPTION:Sted\n----\n\n[Stort auditorium] (http://rom.app.uib.no/romInfo
+ /351/209M3)\, [Høyteknologisenteret] (https://link.mazemap.com/34NC9sKG)\
+ n\nFagperson\n---------\n\n[Håkon Robbestad Gylterud] (http://www.uib.no/
+ user/uib/hgy040)\n\nHendelsen blir automatisk generert og vedlikeholdt. Du
+  kan ikke endre den herfra.\n\n##KADA-CANVAS-ID####1723740652##
+LOCATION:Stort auditorium\, Høyteknologisenteret
+SEQUENCE:0
+SUMMARY:INF226: Forelesning [INF226]
+URL;VALUE=URI:https://mitt.uib.no/calendar?include_contexts=course_48769&mo
+ nth=08&year=2024#calendar_event_1874002
+X-ALT-DESC;FMTTYPE=text/html:<h3>Sted</h3>\n<div><a href="http://rom.app.ui
+ b.no/romInfo/351/209M3">Stort auditorium</a>\, <a href="https://link.mazem
+ ap.com/34NC9sKG">Høyteknologisenteret</a></div>\n<h3>Fagperson</h3>\n<div
+ ><a href="http://www.uib.no/user/uib/hgy040">Håkon Robbestad Gylterud</a>
+ </div>\n<br><hr>\n<p>Hendelsen blir automatisk generert og vedlikeholdt. D
+ u kan ikke endre den herfra.</p>\n<div style="display: none\;" data-kada-c
+ anvas-id="384030">##KADA-CANVAS-ID####1723740652##</div>
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240815T165000Z
+UID:event-calendar-event-1874003
+DTSTART:20240828T061500Z
+DTEND:20240828T080000Z
+CLASS:PUBLIC
+DESCRIPTION:Sted\n----\n\n[Stort auditorium] (http://rom.app.uib.no/romInfo
+ /351/209M3)\, [Høyteknologisenteret] (https://link.mazemap.com/34NC9sKG)\
+ n\nFagperson\n---------\n\n[Håkon Robbestad Gylterud] (http://www.uib.no/
+ user/uib/hgy040)\n\nHendelsen blir automatisk generert og vedlikeholdt. Du
+  kan ikke endre den herfra.\n\n##KADA-CANVAS-ID####1723740652##
+LOCATION:Stort auditorium\, Høyteknologisenteret
+SEQUENCE:0
+SUMMARY:INF226: Forelesning [INF226]
+URL;VALUE=URI:https://mitt.uib.no/calendar?include_contexts=course_48769&mo
+ nth=08&year=2024#calendar_event_1874003
+X-ALT-DESC;FMTTYPE=text/html:<h3>Sted</h3>\n<div><a href="http://rom.app.ui
+ b.no/romInfo/351/209M3">Stort auditorium</a>\, <a href="https://link.mazem
+ ap.com/34NC9sKG">Høyteknologisenteret</a></div>\n<h3>Fagperson</h3>\n<div
+ ><a href="http://www.uib.no/user/uib/hgy040">Håkon Robbestad Gylterud</a>
+ </div>\n<br><hr>\n<p>Hendelsen blir automatisk generert og vedlikeholdt. D
+ u kan ikke endre den herfra.</p>\n<div style="display: none\;" data-kada-c
+ anvas-id="384038">##KADA-CANVAS-ID####1723740652##</div>
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240817T105400Z
+UID:event-calendar-event-1871490
+DTSTART:20240828T101500Z
+DTEND:20240828T120000Z
+CLASS:PUBLIC
+DESCRIPTION:Sted\n----\n\n[Stort auditorium] (http://rom.app.uib.no/romInfo
+ /351/209M3)\, [Høyteknologisenteret] (https://link.mazemap.com/34NC9sKG)\
+ n\nFagperson\n---------\n\n[Ketil Malde] (http://www.uib.no/user/uib/kma02
+ 6)\n\nHendelsen blir automatisk generert og vedlikeholdt. Du kan ikke endr
+ e den herfra.\n\n##KADA-CANVAS-ID####1723892058##
+LOCATION:Stort auditorium\, Høyteknologisenteret
+SEQUENCE:0
+SUMMARY:INF264: Forelesninger [INF264]
+URL;VALUE=URI:https://mitt.uib.no/calendar?include_contexts=course_48632&mo
+ nth=08&year=2024#calendar_event_1871490
+X-ALT-DESC;FMTTYPE=text/html:<h3>Sted</h3>\n<div><a href="http://rom.app.ui
+ b.no/romInfo/351/209M3">Stort auditorium</a>\, <a href="https://link.mazem
+ ap.com/34NC9sKG">Høyteknologisenteret</a></div>\n<h3>Fagperson</h3>\n<div
+ ><a href="http://www.uib.no/user/uib/kma026">Ketil Malde</a></div>\n<br><h
+ r>\n<p>Hendelsen blir automatisk generert og vedlikeholdt. Du kan ikke end
+ re den herfra.</p>\n<div style="display: none\;" data-kada-canvas-id="3848
+ 50">##KADA-CANVAS-ID####1723892058##</div>
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240817T105400Z
+UID:event-calendar-event-1871491
+DTSTART:20240829T121500Z
+DTEND:20240829T140000Z
+CLASS:PUBLIC
+DESCRIPTION:Sted\n----\n\n[Stort auditorium] (http://rom.app.uib.no/romInfo
+ /351/209M3)\, [Høyteknologisenteret] (https://link.mazemap.com/34NC9sKG)\
+ n\nFagperson\n---------\n\n[Ketil Malde] (http://www.uib.no/user/uib/kma02
+ 6)\n\nHendelsen blir automatisk generert og vedlikeholdt. Du kan ikke endr
+ e den herfra.\n\n##KADA-CANVAS-ID####1723892058##
+LOCATION:Stort auditorium\, Høyteknologisenteret
+SEQUENCE:0
+SUMMARY:INF264: Forelesninger [INF264]
+URL;VALUE=URI:https://mitt.uib.no/calendar?include_contexts=course_48632&mo
+ nth=08&year=2024#calendar_event_1871491
+X-ALT-DESC;FMTTYPE=text/html:<h3>Sted</h3>\n<div><a href="http://rom.app.ui
+ b.no/romInfo/351/209M3">Stort auditorium</a>\, <a href="https://link.mazem
+ ap.com/34NC9sKG">Høyteknologisenteret</a></div>\n<h3>Fagperson</h3>\n<div
+ ><a href="http://www.uib.no/user/uib/kma026">Ketil Malde</a></div>\n<br><h
+ r>\n<p>Hendelsen blir automatisk generert og vedlikeholdt. Du kan ikke end
+ re den herfra.</p>\n<div style="display: none\;" data-kada-canvas-id="3848
+ 52">##KADA-CANVAS-ID####1723892058##</div>
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240815T165000Z
+UID:event-calendar-event-1874004
+DTSTART:20240902T101500Z
+DTEND:20240902T120000Z
+CLASS:PUBLIC
+DESCRIPTION:Sted\n----\n\n[Stort auditorium] (http://rom.app.uib.no/romInfo
+ /351/209M3)\, [Høyteknologisenteret] (https://link.mazemap.com/34NC9sKG)\
+ n\nFagperson\n---------\n\n[Håkon Robbestad Gylterud] (http://www.uib.no/
+ user/uib/hgy040)\n\nHendelsen blir automatisk generert og vedlikeholdt. Du
+  kan ikke endre den herfra.\n\n##KADA-CANVAS-ID####1723740653##
+LOCATION:Stort auditorium\, Høyteknologisenteret
+SEQUENCE:0
+SUMMARY:INF226: Forelesning [INF226]
+URL;VALUE=URI:https://mitt.uib.no/calendar?include_contexts=course_48769&mo
+ nth=09&year=2024#calendar_event_1874004
+X-ALT-DESC;FMTTYPE=text/html:<h3>Sted</h3>\n<div><a href="http://rom.app.ui
+ b.no/romInfo/351/209M3">Stort auditorium</a>\, <a href="https://link.mazem
+ ap.com/34NC9sKG">Høyteknologisenteret</a></div>\n<h3>Fagperson</h3>\n<div
+ ><a href="http://www.uib.no/user/uib/hgy040">Håkon Robbestad Gylterud</a>
+ </div>\n<br><hr>\n<p>Hendelsen blir automatisk generert og vedlikeholdt. D
+ u kan ikke endre den herfra.</p>\n<div style="display: none\;" data-kada-c
+ anvas-id="384063">##KADA-CANVAS-ID####1723740653##</div>
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240815T165000Z
+UID:event-calendar-event-1874005
+DTSTART:20240904T061500Z
+DTEND:20240904T080000Z
+CLASS:PUBLIC
+DESCRIPTION:Sted\n----\n\n[Stort auditorium] (http://rom.app.uib.no/romInfo
+ /351/209M3)\, [Høyteknologisenteret] (https://link.mazemap.com/34NC9sKG)\
+ n\nFagperson\n---------\n\n[Håkon Robbestad Gylterud] (http://www.uib.no/
+ user/uib/hgy040)\n\nHendelsen blir automatisk generert og vedlikeholdt. Du
+  kan ikke endre den herfra.\n\n##KADA-CANVAS-ID####1723740653##
+LOCATION:Stort auditorium\, Høyteknologisenteret
+SEQUENCE:0
+SUMMARY:INF226: Forelesning [INF226]
+URL;VALUE=URI:https://mitt.uib.no/calendar?include_contexts=course_48769&mo
+ nth=09&year=2024#calendar_event_1874005
+X-ALT-DESC;FMTTYPE=text/html:<h3>Sted</h3>\n<div><a href="http://rom.app.ui
+ b.no/romInfo/351/209M3">Stort auditorium</a>\, <a href="https://link.mazem
+ ap.com/34NC9sKG">Høyteknologisenteret</a></div>\n<h3>Fagperson</h3>\n<div
+ ><a href="http://www.uib.no/user/uib/hgy040">Håkon Robbestad Gylterud</a>
+ </div>\n<br><hr>\n<p>Hendelsen blir automatisk generert og vedlikeholdt. D
+ u kan ikke endre den herfra.</p>\n<div style="display: none\;" data-kada-c
+ anvas-id="384068">##KADA-CANVAS-ID####1723740653##</div>
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240817T105400Z
+UID:event-calendar-event-1871492
+DTSTART:20240904T101500Z
+DTEND:20240904T120000Z
+CLASS:PUBLIC
+DESCRIPTION:Sted\n----\n\n[Stort auditorium] (http://rom.app.uib.no/romInfo
+ /351/209M3)\, [Høyteknologisenteret] (https://link.mazemap.com/34NC9sKG)\
+ n\nFagperson\n---------\n\n[Ketil Malde] (http://www.uib.no/user/uib/kma02
+ 6)\n\nHendelsen blir automatisk generert og vedlikeholdt. Du kan ikke endr
+ e den herfra.\n\n##KADA-CANVAS-ID####1723892059##
+LOCATION:Stort auditorium\, Høyteknologisenteret
+SEQUENCE:0
+SUMMARY:INF264: Forelesninger [INF264]
+URL;VALUE=URI:https://mitt.uib.no/calendar?include_contexts=course_48632&mo
+ nth=09&year=2024#calendar_event_1871492
+X-ALT-DESC;FMTTYPE=text/html:<h3>Sted</h3>\n<div><a href="http://rom.app.ui
+ b.no/romInfo/351/209M3">Stort auditorium</a>\, <a href="https://link.mazem
+ ap.com/34NC9sKG">Høyteknologisenteret</a></div>\n<h3>Fagperson</h3>\n<div
+ ><a href="http://www.uib.no/user/uib/kma026">Ketil Malde</a></div>\n<br><h
+ r>\n<p>Hendelsen blir automatisk generert og vedlikeholdt. Du kan ikke end
+ re den herfra.</p>\n<div style="display: none\;" data-kada-canvas-id="3848
+ 65">##KADA-CANVAS-ID####1723892059##</div>
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240817T105400Z
+UID:event-calendar-event-1871493
+DTSTART:20240905T121500Z
+DTEND:20240905T140000Z
+CLASS:PUBLIC
+DESCRIPTION:Sted\n----\n\n[Stort auditorium] (http://rom.app.uib.no/romInfo
+ /351/209M3)\, [Høyteknologisenteret] (https://link.mazemap.com/34NC9sKG)\
+ n\nFagperson\n---------\n\n[Ketil Malde] (http://www.uib.no/user/uib/kma02
+ 6)\n\nHendelsen blir automatisk generert og vedlikeholdt. Du kan ikke endr
+ e den herfra.\n\n##KADA-CANVAS-ID####1723892059##
+LOCATION:Stort auditorium\, Høyteknologisenteret
+SEQUENCE:0
+SUMMARY:INF264: Forelesninger [INF264]
+URL;VALUE=URI:https://mitt.uib.no/calendar?include_contexts=course_48632&mo
+ nth=09&year=2024#calendar_event_1871493
+X-ALT-DESC;FMTTYPE=text/html:<h3>Sted</h3>\n<div><a href="http://rom.app.ui
+ b.no/romInfo/351/209M3">Stort auditorium</a>\, <a href="https://link.mazem
+ ap.com/34NC9sKG">Høyteknologisenteret</a></div>\n<h3>Fagperson</h3>\n<div
+ ><a href="http://www.uib.no/user/uib/kma026">Ketil Malde</a></div>\n<br><h
+ r>\n<p>Hendelsen blir automatisk generert og vedlikeholdt. Du kan ikke end
+ re den herfra.</p>\n<div style="display: none\;" data-kada-canvas-id="3848
+ 67">##KADA-CANVAS-ID####1723892059##</div>
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240815T165000Z
+UID:event-calendar-event-1874006
+DTSTART:20240909T101500Z
+DTEND:20240909T120000Z
+CLASS:PUBLIC
+DESCRIPTION:Sted\n----\n\n[Stort auditorium] (http://rom.app.uib.no/romInfo
+ /351/209M3)\, [Høyteknologisenteret] (https://link.mazemap.com/34NC9sKG)\
+ n\nFagperson\n---------\n\n[Håkon Robbestad Gylterud] (http://www.uib.no/
+ user/uib/hgy040)\n\nHendelsen blir automatisk generert og vedlikeholdt. Du
+  kan ikke endre den herfra.\n\n##KADA-CANVAS-ID####1723740653##
+LOCATION:Stort auditorium\, Høyteknologisenteret
+SEQUENCE:0
+SUMMARY:INF226: Forelesning [INF226]
+URL;VALUE=URI:https://mitt.uib.no/calendar?include_contexts=course_48769&mo
+ nth=09&year=2024#calendar_event_1874006
+X-ALT-DESC;FMTTYPE=text/html:<h3>Sted</h3>\n<div><a href="http://rom.app.ui
+ b.no/romInfo/351/209M3">Stort auditorium</a>\, <a href="https://link.mazem
+ ap.com/34NC9sKG">Høyteknologisenteret</a></div>\n<h3>Fagperson</h3>\n<div
+ ><a href="http://www.uib.no/user/uib/hgy040">Håkon Robbestad Gylterud</a>
+ </div>\n<br><hr>\n<p>Hendelsen blir automatisk generert og vedlikeholdt. D
+ u kan ikke endre den herfra.</p>\n<div style="display: none\;" data-kada-c
+ anvas-id="384088">##KADA-CANVAS-ID####1723740653##</div>
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240815T165000Z
+UID:event-calendar-event-1874007
+DTSTART:20240911T061500Z
+DTEND:20240911T080000Z
+CLASS:PUBLIC
+DESCRIPTION:Sted\n----\n\n[Stort auditorium] (http://rom.app.uib.no/romInfo
+ /351/209M3)\, [Høyteknologisenteret] (https://link.mazemap.com/34NC9sKG)\
+ n\nFagperson\n---------\n\n[Håkon Robbestad Gylterud] (http://www.uib.no/
+ user/uib/hgy040)\n\nHendelsen blir automatisk generert og vedlikeholdt. Du
+  kan ikke endre den herfra.\n\n##KADA-CANVAS-ID####1723740653##
+LOCATION:Stort auditorium\, Høyteknologisenteret
+SEQUENCE:0
+SUMMARY:INF226: Forelesning [INF226]
+URL;VALUE=URI:https://mitt.uib.no/calendar?include_contexts=course_48769&mo
+ nth=09&year=2024#calendar_event_1874007
+X-ALT-DESC;FMTTYPE=text/html:<h3>Sted</h3>\n<div><a href="http://rom.app.ui
+ b.no/romInfo/351/209M3">Stort auditorium</a>\, <a href="https://link.mazem
+ ap.com/34NC9sKG">Høyteknologisenteret</a></div>\n<h3>Fagperson</h3>\n<div
+ ><a href="http://www.uib.no/user/uib/hgy040">Håkon Robbestad Gylterud</a>
+ </div>\n<br><hr>\n<p>Hendelsen blir automatisk generert og vedlikeholdt. D
+ u kan ikke endre den herfra.</p>\n<div style="display: none\;" data-kada-c
+ anvas-id="384094">##KADA-CANVAS-ID####1723740653##</div>
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240817T105400Z
+UID:event-calendar-event-1871494
+DTSTART:20240911T101500Z
+DTEND:20240911T120000Z
+CLASS:PUBLIC
+DESCRIPTION:Sted\n----\n\n[Stort auditorium] (http://rom.app.uib.no/romInfo
+ /351/209M3)\, [Høyteknologisenteret] (https://link.mazemap.com/34NC9sKG)\
+ n\nFagperson\n---------\n\n[Ketil Malde] (http://www.uib.no/user/uib/kma02
+ 6)\n\nHendelsen blir automatisk generert og vedlikeholdt. Du kan ikke endr
+ e den herfra.\n\n##KADA-CANVAS-ID####1723892059##
+LOCATION:Stort auditorium\, Høyteknologisenteret
+SEQUENCE:0
+SUMMARY:INF264: Forelesninger [INF264]
+URL;VALUE=URI:https://mitt.uib.no/calendar?include_contexts=course_48632&mo
+ nth=09&year=2024#calendar_event_1871494
+X-ALT-DESC;FMTTYPE=text/html:<h3>Sted</h3>\n<div><a href="http://rom.app.ui
+ b.no/romInfo/351/209M3">Stort auditorium</a>\, <a href="https://link.mazem
+ ap.com/34NC9sKG">Høyteknologisenteret</a></div>\n<h3>Fagperson</h3>\n<div
+ ><a href="http://www.uib.no/user/uib/kma026">Ketil Malde</a></div>\n<br><h
+ r>\n<p>Hendelsen blir automatisk generert og vedlikeholdt. Du kan ikke end
+ re den herfra.</p>\n<div style="display: none\;" data-kada-canvas-id="3848
+ 75">##KADA-CANVAS-ID####1723892059##</div>
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240817T105400Z
+UID:event-calendar-event-1871495
+DTSTART:20240912T121500Z
+DTEND:20240912T140000Z
+CLASS:PUBLIC
+DESCRIPTION:Sted\n----\n\n[Stort auditorium] (http://rom.app.uib.no/romInfo
+ /351/209M3)\, [Høyteknologisenteret] (https://link.mazemap.com/34NC9sKG)\
+ n\nFagperson\n---------\n\n[Ketil Malde] (http://www.uib.no/user/uib/kma02
+ 6)\n\nHendelsen blir automatisk generert og vedlikeholdt. Du kan ikke endr
+ e den herfra.\n\n##KADA-CANVAS-ID####1723892059##
+LOCATION:Stort auditorium\, Høyteknologisenteret
+SEQUENCE:0
+SUMMARY:INF264: Forelesninger [INF264]
+URL;VALUE=URI:https://mitt.uib.no/calendar?include_contexts=course_48632&mo
+ nth=09&year=2024#calendar_event_1871495
+X-ALT-DESC;FMTTYPE=text/html:<h3>Sted</h3>\n<div><a href="http://rom.app.ui
+ b.no/romInfo/351/209M3">Stort auditorium</a>\, <a href="https://link.mazem
+ ap.com/34NC9sKG">Høyteknologisenteret</a></div>\n<h3>Fagperson</h3>\n<div
+ ><a href="http://www.uib.no/user/uib/kma026">Ketil Malde</a></div>\n<br><h
+ r>\n<p>Hendelsen blir automatisk generert og vedlikeholdt. Du kan ikke end
+ re den herfra.</p>\n<div style="display: none\;" data-kada-canvas-id="3848
+ 77">##KADA-CANVAS-ID####1723892059##</div>
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240815T165000Z
+UID:event-calendar-event-1874008
+DTSTART:20240916T101500Z
+DTEND:20240916T120000Z
+CLASS:PUBLIC
+DESCRIPTION:Sted\n----\n\n[Stort auditorium] (http://rom.app.uib.no/romInfo
+ /351/209M3)\, [Høyteknologisenteret] (https://link.mazemap.com/34NC9sKG)\
+ n\nFagperson\n---------\n\n[Håkon Robbestad Gylterud] (http://www.uib.no/
+ user/uib/hgy040)\n\nHendelsen blir automatisk generert og vedlikeholdt. Du
+  kan ikke endre den herfra.\n\n##KADA-CANVAS-ID####1723740653##
+LOCATION:Stort auditorium\, Høyteknologisenteret
+SEQUENCE:0
+SUMMARY:INF226: Forelesning [INF226]
+URL;VALUE=URI:https://mitt.uib.no/calendar?include_contexts=course_48769&mo
+ nth=09&year=2024#calendar_event_1874008
+X-ALT-DESC;FMTTYPE=text/html:<h3>Sted</h3>\n<div><a href="http://rom.app.ui
+ b.no/romInfo/351/209M3">Stort auditorium</a>\, <a href="https://link.mazem
+ ap.com/34NC9sKG">Høyteknologisenteret</a></div>\n<h3>Fagperson</h3>\n<div
+ ><a href="http://www.uib.no/user/uib/hgy040">Håkon Robbestad Gylterud</a>
+ </div>\n<br><hr>\n<p>Hendelsen blir automatisk generert og vedlikeholdt. D
+ u kan ikke endre den herfra.</p>\n<div style="display: none\;" data-kada-c
+ anvas-id="384116">##KADA-CANVAS-ID####1723740653##</div>
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240815T165000Z
+UID:event-calendar-event-1874009
+DTSTART:20240918T061500Z
+DTEND:20240918T080000Z
+CLASS:PUBLIC
+DESCRIPTION:Sted\n----\n\n[Stort auditorium] (http://rom.app.uib.no/romInfo
+ /351/209M3)\, [Høyteknologisenteret] (https://link.mazemap.com/34NC9sKG)\
+ n\nFagperson\n---------\n\n[Håkon Robbestad Gylterud] (http://www.uib.no/
+ user/uib/hgy040)\n\nHendelsen blir automatisk generert og vedlikeholdt. Du
+  kan ikke endre den herfra.\n\n##KADA-CANVAS-ID####1723740654##
+LOCATION:Stort auditorium\, Høyteknologisenteret
+SEQUENCE:0
+SUMMARY:INF226: Forelesning [INF226]
+URL;VALUE=URI:https://mitt.uib.no/calendar?include_contexts=course_48769&mo
+ nth=09&year=2024#calendar_event_1874009
+X-ALT-DESC;FMTTYPE=text/html:<h3>Sted</h3>\n<div><a href="http://rom.app.ui
+ b.no/romInfo/351/209M3">Stort auditorium</a>\, <a href="https://link.mazem
+ ap.com/34NC9sKG">Høyteknologisenteret</a></div>\n<h3>Fagperson</h3>\n<div
+ ><a href="http://www.uib.no/user/uib/hgy040">Håkon Robbestad Gylterud</a>
+ </div>\n<br><hr>\n<p>Hendelsen blir automatisk generert og vedlikeholdt. D
+ u kan ikke endre den herfra.</p>\n<div style="display: none\;" data-kada-c
+ anvas-id="384121">##KADA-CANVAS-ID####1723740654##</div>
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240817T105400Z
+UID:event-calendar-event-1871496
+DTSTART:20240918T101500Z
+DTEND:20240918T120000Z
+CLASS:PUBLIC
+DESCRIPTION:Sted\n----\n\n[Stort auditorium] (http://rom.app.uib.no/romInfo
+ /351/209M3)\, [Høyteknologisenteret] (https://link.mazemap.com/34NC9sKG)\
+ n\nFagperson\n---------\n\n[Ketil Malde] (http://www.uib.no/user/uib/kma02
+ 6)\n\nHendelsen blir automatisk generert og vedlikeholdt. Du kan ikke endr
+ e den herfra.\n\n##KADA-CANVAS-ID####1723892060##
+LOCATION:Stort auditorium\, Høyteknologisenteret
+SEQUENCE:0
+SUMMARY:INF264: Forelesninger [INF264]
+URL;VALUE=URI:https://mitt.uib.no/calendar?include_contexts=course_48632&mo
+ nth=09&year=2024#calendar_event_1871496
+X-ALT-DESC;FMTTYPE=text/html:<h3>Sted</h3>\n<div><a href="http://rom.app.ui
+ b.no/romInfo/351/209M3">Stort auditorium</a>\, <a href="https://link.mazem
+ ap.com/34NC9sKG">Høyteknologisenteret</a></div>\n<h3>Fagperson</h3>\n<div
+ ><a href="http://www.uib.no/user/uib/kma026">Ketil Malde</a></div>\n<br><h
+ r>\n<p>Hendelsen blir automatisk generert og vedlikeholdt. Du kan ikke end
+ re den herfra.</p>\n<div style="display: none\;" data-kada-canvas-id="3848
+ 92">##KADA-CANVAS-ID####1723892060##</div>
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240817T105400Z
+UID:event-calendar-event-1871497
+DTSTART:20240919T121500Z
+DTEND:20240919T140000Z
+CLASS:PUBLIC
+DESCRIPTION:Sted\n----\n\n[Stort auditorium] (http://rom.app.uib.no/romInfo
+ /351/209M3)\, [Høyteknologisenteret] (https://link.mazemap.com/34NC9sKG)\
+ n\nFagperson\n---------\n\n[Ketil Malde] (http://www.uib.no/user/uib/kma02
+ 6)\n\nHendelsen blir automatisk generert og vedlikeholdt. Du kan ikke endr
+ e den herfra.\n\n##KADA-CANVAS-ID####1723892060##
+LOCATION:Stort auditorium\, Høyteknologisenteret
+SEQUENCE:0
+SUMMARY:INF264: Forelesninger [INF264]
+URL;VALUE=URI:https://mitt.uib.no/calendar?include_contexts=course_48632&mo
+ nth=09&year=2024#calendar_event_1871497
+X-ALT-DESC;FMTTYPE=text/html:<h3>Sted</h3>\n<div><a href="http://rom.app.ui
+ b.no/romInfo/351/209M3">Stort auditorium</a>\, <a href="https://link.mazem
+ ap.com/34NC9sKG">Høyteknologisenteret</a></div>\n<h3>Fagperson</h3>\n<div
+ ><a href="http://www.uib.no/user/uib/kma026">Ketil Malde</a></div>\n<br><h
+ r>\n<p>Hendelsen blir automatisk generert og vedlikeholdt. Du kan ikke end
+ re den herfra.</p>\n<div style="display: none\;" data-kada-canvas-id="3848
+ 94">##KADA-CANVAS-ID####1723892060##</div>
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240815T165000Z
+UID:event-calendar-event-1874010
+DTSTART:20240923T101500Z
+DTEND:20240923T120000Z
+CLASS:PUBLIC
+DESCRIPTION:Sted\n----\n\n[Stort auditorium] (http://rom.app.uib.no/romInfo
+ /351/209M3)\, [Høyteknologisenteret] (https://link.mazemap.com/34NC9sKG)\
+ n\nFagperson\n---------\n\n[Håkon Robbestad Gylterud] (http://www.uib.no/
+ user/uib/hgy040)\n\nHendelsen blir automatisk generert og vedlikeholdt. Du
+  kan ikke endre den herfra.\n\n##KADA-CANVAS-ID####1723740654##
+LOCATION:Stort auditorium\, Høyteknologisenteret
+SEQUENCE:0
+SUMMARY:INF226: Forelesning [INF226]
+URL;VALUE=URI:https://mitt.uib.no/calendar?include_contexts=course_48769&mo
+ nth=09&year=2024#calendar_event_1874010
+X-ALT-DESC;FMTTYPE=text/html:<h3>Sted</h3>\n<div><a href="http://rom.app.ui
+ b.no/romInfo/351/209M3">Stort auditorium</a>\, <a href="https://link.mazem
+ ap.com/34NC9sKG">Høyteknologisenteret</a></div>\n<h3>Fagperson</h3>\n<div
+ ><a href="http://www.uib.no/user/uib/hgy040">Håkon Robbestad Gylterud</a>
+ </div>\n<br><hr>\n<p>Hendelsen blir automatisk generert og vedlikeholdt. D
+ u kan ikke endre den herfra.</p>\n<div style="display: none\;" data-kada-c
+ anvas-id="384146">##KADA-CANVAS-ID####1723740654##</div>
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240815T165000Z
+UID:event-calendar-event-1874011
+DTSTART:20240925T061500Z
+DTEND:20240925T080000Z
+CLASS:PUBLIC
+DESCRIPTION:Sted\n----\n\n[Stort auditorium] (http://rom.app.uib.no/romInfo
+ /351/209M3)\, [Høyteknologisenteret] (https://link.mazemap.com/34NC9sKG)\
+ n\nFagperson\n---------\n\n[Håkon Robbestad Gylterud] (http://www.uib.no/
+ user/uib/hgy040)\n\nHendelsen blir automatisk generert og vedlikeholdt. Du
+  kan ikke endre den herfra.\n\n##KADA-CANVAS-ID####1723740654##
+LOCATION:Stort auditorium\, Høyteknologisenteret
+SEQUENCE:0
+SUMMARY:INF226: Forelesning [INF226]
+URL;VALUE=URI:https://mitt.uib.no/calendar?include_contexts=course_48769&mo
+ nth=09&year=2024#calendar_event_1874011
+X-ALT-DESC;FMTTYPE=text/html:<h3>Sted</h3>\n<div><a href="http://rom.app.ui
+ b.no/romInfo/351/209M3">Stort auditorium</a>\, <a href="https://link.mazem
+ ap.com/34NC9sKG">Høyteknologisenteret</a></div>\n<h3>Fagperson</h3>\n<div
+ ><a href="http://www.uib.no/user/uib/hgy040">Håkon Robbestad Gylterud</a>
+ </div>\n<br><hr>\n<p>Hendelsen blir automatisk generert og vedlikeholdt. D
+ u kan ikke endre den herfra.</p>\n<div style="display: none\;" data-kada-c
+ anvas-id="384154">##KADA-CANVAS-ID####1723740654##</div>
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240817T105400Z
+UID:event-calendar-event-1871498
+DTSTART:20240925T101500Z
+DTEND:20240925T120000Z
+CLASS:PUBLIC
+DESCRIPTION:Sted\n----\n\n[Stort auditorium] (http://rom.app.uib.no/romInfo
+ /351/209M3)\, [Høyteknologisenteret] (https://link.mazemap.com/34NC9sKG)\
+ n\nFagperson\n---------\n\n[Ketil Malde] (http://www.uib.no/user/uib/kma02
+ 6)\n\nHendelsen blir automatisk generert og vedlikeholdt. Du kan ikke endr
+ e den herfra.\n\n##KADA-CANVAS-ID####1723892060##
+LOCATION:Stort auditorium\, Høyteknologisenteret
+SEQUENCE:0
+SUMMARY:INF264: Forelesninger [INF264]
+URL;VALUE=URI:https://mitt.uib.no/calendar?include_contexts=course_48632&mo
+ nth=09&year=2024#calendar_event_1871498
+X-ALT-DESC;FMTTYPE=text/html:<h3>Sted</h3>\n<div><a href="http://rom.app.ui
+ b.no/romInfo/351/209M3">Stort auditorium</a>\, <a href="https://link.mazem
+ ap.com/34NC9sKG">Høyteknologisenteret</a></div>\n<h3>Fagperson</h3>\n<div
+ ><a href="http://www.uib.no/user/uib/kma026">Ketil Malde</a></div>\n<br><h
+ r>\n<p>Hendelsen blir automatisk generert og vedlikeholdt. Du kan ikke end
+ re den herfra.</p>\n<div style="display: none\;" data-kada-canvas-id="3849
+ 07">##KADA-CANVAS-ID####1723892060##</div>
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240817T105400Z
+UID:event-calendar-event-1871499
+DTSTART:20240926T121500Z
+DTEND:20240926T140000Z
+CLASS:PUBLIC
+DESCRIPTION:Sted\n----\n\n[Stort auditorium] (http://rom.app.uib.no/romInfo
+ /351/209M3)\, [Høyteknologisenteret] (https://link.mazemap.com/34NC9sKG)\
+ n\nFagperson\n---------\n\n[Ketil Malde] (http://www.uib.no/user/uib/kma02
+ 6)\n\nHendelsen blir automatisk generert og vedlikeholdt. Du kan ikke endr
+ e den herfra.\n\n##KADA-CANVAS-ID####1723892060##
+LOCATION:Stort auditorium\, Høyteknologisenteret
+SEQUENCE:0
+SUMMARY:INF264: Forelesninger [INF264]
+URL;VALUE=URI:https://mitt.uib.no/calendar?include_contexts=course_48632&mo
+ nth=09&year=2024#calendar_event_1871499
+X-ALT-DESC;FMTTYPE=text/html:<h3>Sted</h3>\n<div><a href="http://rom.app.ui
+ b.no/romInfo/351/209M3">Stort auditorium</a>\, <a href="https://link.mazem
+ ap.com/34NC9sKG">Høyteknologisenteret</a></div>\n<h3>Fagperson</h3>\n<div
+ ><a href="http://www.uib.no/user/uib/kma026">Ketil Malde</a></div>\n<br><h
+ r>\n<p>Hendelsen blir automatisk generert og vedlikeholdt. Du kan ikke end
+ re den herfra.</p>\n<div style="display: none\;" data-kada-canvas-id="3849
+ 10">##KADA-CANVAS-ID####1723892060##</div>
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240815T165000Z
+UID:event-calendar-event-1874012
+DTSTART:20240930T101500Z
+DTEND:20240930T120000Z
+CLASS:PUBLIC
+DESCRIPTION:Sted\n----\n\n[Stort auditorium] (http://rom.app.uib.no/romInfo
+ /351/209M3)\, [Høyteknologisenteret] (https://link.mazemap.com/34NC9sKG)\
+ n\nFagperson\n---------\n\n[Håkon Robbestad Gylterud] (http://www.uib.no/
+ user/uib/hgy040)\n\nHendelsen blir automatisk generert og vedlikeholdt. Du
+  kan ikke endre den herfra.\n\n##KADA-CANVAS-ID####1723740654##
+LOCATION:Stort auditorium\, Høyteknologisenteret
+SEQUENCE:0
+SUMMARY:INF226: Forelesning [INF226]
+URL;VALUE=URI:https://mitt.uib.no/calendar?include_contexts=course_48769&mo
+ nth=09&year=2024#calendar_event_1874012
+X-ALT-DESC;FMTTYPE=text/html:<h3>Sted</h3>\n<div><a href="http://rom.app.ui
+ b.no/romInfo/351/209M3">Stort auditorium</a>\, <a href="https://link.mazem
+ ap.com/34NC9sKG">Høyteknologisenteret</a></div>\n<h3>Fagperson</h3>\n<div
+ ><a href="http://www.uib.no/user/uib/hgy040">Håkon Robbestad Gylterud</a>
+ </div>\n<br><hr>\n<p>Hendelsen blir automatisk generert og vedlikeholdt. D
+ u kan ikke endre den herfra.</p>\n<div style="display: none\;" data-kada-c
+ anvas-id="384180">##KADA-CANVAS-ID####1723740654##</div>
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240815T165000Z
+UID:event-calendar-event-1874013
+DTSTART:20241002T061500Z
+DTEND:20241002T080000Z
+CLASS:PUBLIC
+DESCRIPTION:Sted\n----\n\n[Stort auditorium] (http://rom.app.uib.no/romInfo
+ /351/209M3)\, [Høyteknologisenteret] (https://link.mazemap.com/34NC9sKG)\
+ n\nFagperson\n---------\n\n[Håkon Robbestad Gylterud] (http://www.uib.no/
+ user/uib/hgy040)\n\nHendelsen blir automatisk generert og vedlikeholdt. Du
+  kan ikke endre den herfra.\n\n##KADA-CANVAS-ID####1723740654##
+LOCATION:Stort auditorium\, Høyteknologisenteret
+SEQUENCE:0
+SUMMARY:INF226: Forelesning [INF226]
+URL;VALUE=URI:https://mitt.uib.no/calendar?include_contexts=course_48769&mo
+ nth=10&year=2024#calendar_event_1874013
+X-ALT-DESC;FMTTYPE=text/html:<h3>Sted</h3>\n<div><a href="http://rom.app.ui
+ b.no/romInfo/351/209M3">Stort auditorium</a>\, <a href="https://link.mazem
+ ap.com/34NC9sKG">Høyteknologisenteret</a></div>\n<h3>Fagperson</h3>\n<div
+ ><a href="http://www.uib.no/user/uib/hgy040">Håkon Robbestad Gylterud</a>
+ </div>\n<br><hr>\n<p>Hendelsen blir automatisk generert og vedlikeholdt. D
+ u kan ikke endre den herfra.</p>\n<div style="display: none\;" data-kada-c
+ anvas-id="384188">##KADA-CANVAS-ID####1723740654##</div>
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240817T105400Z
+UID:event-calendar-event-1871500
+DTSTART:20241002T101500Z
+DTEND:20241002T120000Z
+CLASS:PUBLIC
+DESCRIPTION:Sted\n----\n\n[Stort auditorium] (http://rom.app.uib.no/romInfo
+ /351/209M3)\, [Høyteknologisenteret] (https://link.mazemap.com/34NC9sKG)\
+ n\nFagperson\n---------\n\n[Ketil Malde] (http://www.uib.no/user/uib/kma02
+ 6)\n\nHendelsen blir automatisk generert og vedlikeholdt. Du kan ikke endr
+ e den herfra.\n\n##KADA-CANVAS-ID####1723892061##
+LOCATION:Stort auditorium\, Høyteknologisenteret
+SEQUENCE:0
+SUMMARY:INF264: Forelesninger [INF264]
+URL;VALUE=URI:https://mitt.uib.no/calendar?include_contexts=course_48632&mo
+ nth=10&year=2024#calendar_event_1871500
+X-ALT-DESC;FMTTYPE=text/html:<h3>Sted</h3>\n<div><a href="http://rom.app.ui
+ b.no/romInfo/351/209M3">Stort auditorium</a>\, <a href="https://link.mazem
+ ap.com/34NC9sKG">Høyteknologisenteret</a></div>\n<h3>Fagperson</h3>\n<div
+ ><a href="http://www.uib.no/user/uib/kma026">Ketil Malde</a></div>\n<br><h
+ r>\n<p>Hendelsen blir automatisk generert og vedlikeholdt. Du kan ikke end
+ re den herfra.</p>\n<div style="display: none\;" data-kada-canvas-id="3849
+ 19">##KADA-CANVAS-ID####1723892061##</div>
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240817T105400Z
+UID:event-calendar-event-1871501
+DTSTART:20241003T121500Z
+DTEND:20241003T140000Z
+CLASS:PUBLIC
+DESCRIPTION:Sted\n----\n\n[Stort auditorium] (http://rom.app.uib.no/romInfo
+ /351/209M3)\, [Høyteknologisenteret] (https://link.mazemap.com/34NC9sKG)\
+ n\nFagperson\n---------\n\n[Ketil Malde] (http://www.uib.no/user/uib/kma02
+ 6)\n\nHendelsen blir automatisk generert og vedlikeholdt. Du kan ikke endr
+ e den herfra.\n\n##KADA-CANVAS-ID####1723892061##
+LOCATION:Stort auditorium\, Høyteknologisenteret
+SEQUENCE:0
+SUMMARY:INF264: Forelesninger: REALISER: Karrieredag på MatNat – ingen u
+ ndervisning [INF264]
+URL;VALUE=URI:https://mitt.uib.no/calendar?include_contexts=course_48632&mo
+ nth=10&year=2024#calendar_event_1871501
+X-ALT-DESC;FMTTYPE=text/html:<h3>Sted</h3>\n<div><a href="http://rom.app.ui
+ b.no/romInfo/351/209M3">Stort auditorium</a>\, <a href="https://link.mazem
+ ap.com/34NC9sKG">Høyteknologisenteret</a></div>\n<h3>Fagperson</h3>\n<div
+ ><a href="http://www.uib.no/user/uib/kma026">Ketil Malde</a></div>\n<br><h
+ r>\n<p>Hendelsen blir automatisk generert og vedlikeholdt. Du kan ikke end
+ re den herfra.</p>\n<div style="display: none\;" data-kada-canvas-id="3849
+ 20">##KADA-CANVAS-ID####1723892061##</div>
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240815T165000Z
+UID:event-calendar-event-1874014
+DTSTART:20241007T101500Z
+DTEND:20241007T120000Z
+CLASS:PUBLIC
+DESCRIPTION:Sted\n----\n\n[Stort auditorium] (http://rom.app.uib.no/romInfo
+ /351/209M3)\, [Høyteknologisenteret] (https://link.mazemap.com/34NC9sKG)\
+ n\nFagperson\n---------\n\n[Håkon Robbestad Gylterud] (http://www.uib.no/
+ user/uib/hgy040)\n\nHendelsen blir automatisk generert og vedlikeholdt. Du
+  kan ikke endre den herfra.\n\n##KADA-CANVAS-ID####1723740655##
+LOCATION:Stort auditorium\, Høyteknologisenteret
+SEQUENCE:0
+SUMMARY:INF226: Forelesning [INF226]
+URL;VALUE=URI:https://mitt.uib.no/calendar?include_contexts=course_48769&mo
+ nth=10&year=2024#calendar_event_1874014
+X-ALT-DESC;FMTTYPE=text/html:<h3>Sted</h3>\n<div><a href="http://rom.app.ui
+ b.no/romInfo/351/209M3">Stort auditorium</a>\, <a href="https://link.mazem
+ ap.com/34NC9sKG">Høyteknologisenteret</a></div>\n<h3>Fagperson</h3>\n<div
+ ><a href="http://www.uib.no/user/uib/hgy040">Håkon Robbestad Gylterud</a>
+ </div>\n<br><hr>\n<p>Hendelsen blir automatisk generert og vedlikeholdt. D
+ u kan ikke endre den herfra.</p>\n<div style="display: none\;" data-kada-c
+ anvas-id="384212">##KADA-CANVAS-ID####1723740655##</div>
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240815T165000Z
+UID:event-calendar-event-1874015
+DTSTART:20241009T061500Z
+DTEND:20241009T080000Z
+CLASS:PUBLIC
+DESCRIPTION:Sted\n----\n\n[Stort auditorium] (http://rom.app.uib.no/romInfo
+ /351/209M3)\, [Høyteknologisenteret] (https://link.mazemap.com/34NC9sKG)\
+ n\nFagperson\n---------\n\n[Håkon Robbestad Gylterud] (http://www.uib.no/
+ user/uib/hgy040)\n\nHendelsen blir automatisk generert og vedlikeholdt. Du
+  kan ikke endre den herfra.\n\n##KADA-CANVAS-ID####1723740655##
+LOCATION:Stort auditorium\, Høyteknologisenteret
+SEQUENCE:0
+SUMMARY:INF226: Forelesning [INF226]
+URL;VALUE=URI:https://mitt.uib.no/calendar?include_contexts=course_48769&mo
+ nth=10&year=2024#calendar_event_1874015
+X-ALT-DESC;FMTTYPE=text/html:<h3>Sted</h3>\n<div><a href="http://rom.app.ui
+ b.no/romInfo/351/209M3">Stort auditorium</a>\, <a href="https://link.mazem
+ ap.com/34NC9sKG">Høyteknologisenteret</a></div>\n<h3>Fagperson</h3>\n<div
+ ><a href="http://www.uib.no/user/uib/hgy040">Håkon Robbestad Gylterud</a>
+ </div>\n<br><hr>\n<p>Hendelsen blir automatisk generert og vedlikeholdt. D
+ u kan ikke endre den herfra.</p>\n<div style="display: none\;" data-kada-c
+ anvas-id="384221">##KADA-CANVAS-ID####1723740655##</div>
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240817T105400Z
+UID:event-calendar-event-1871502
+DTSTART:20241009T101500Z
+DTEND:20241009T120000Z
+CLASS:PUBLIC
+DESCRIPTION:Sted\n----\n\n[Stort auditorium] (http://rom.app.uib.no/romInfo
+ /351/209M3)\, [Høyteknologisenteret] (https://link.mazemap.com/34NC9sKG)\
+ n\nFagperson\n---------\n\n[Ketil Malde] (http://www.uib.no/user/uib/kma02
+ 6)\n\nHendelsen blir automatisk generert og vedlikeholdt. Du kan ikke endr
+ e den herfra.\n\n##KADA-CANVAS-ID####1723892061##
+LOCATION:Stort auditorium\, Høyteknologisenteret
+SEQUENCE:0
+SUMMARY:INF264: Forelesninger [INF264]
+URL;VALUE=URI:https://mitt.uib.no/calendar?include_contexts=course_48632&mo
+ nth=10&year=2024#calendar_event_1871502
+X-ALT-DESC;FMTTYPE=text/html:<h3>Sted</h3>\n<div><a href="http://rom.app.ui
+ b.no/romInfo/351/209M3">Stort auditorium</a>\, <a href="https://link.mazem
+ ap.com/34NC9sKG">Høyteknologisenteret</a></div>\n<h3>Fagperson</h3>\n<div
+ ><a href="http://www.uib.no/user/uib/kma026">Ketil Malde</a></div>\n<br><h
+ r>\n<p>Hendelsen blir automatisk generert og vedlikeholdt. Du kan ikke end
+ re den herfra.</p>\n<div style="display: none\;" data-kada-canvas-id="3849
+ 29">##KADA-CANVAS-ID####1723892061##</div>
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240817T105400Z
+UID:event-calendar-event-1871503
+DTSTART:20241010T121500Z
+DTEND:20241010T140000Z
+CLASS:PUBLIC
+DESCRIPTION:Sted\n----\n\n[Stort auditorium] (http://rom.app.uib.no/romInfo
+ /351/209M3)\, [Høyteknologisenteret] (https://link.mazemap.com/34NC9sKG)\
+ n\nFagperson\n---------\n\n[Ketil Malde] (http://www.uib.no/user/uib/kma02
+ 6)\n\nHendelsen blir automatisk generert og vedlikeholdt. Du kan ikke endr
+ e den herfra.\n\n##KADA-CANVAS-ID####1723892061##
+LOCATION:Stort auditorium\, Høyteknologisenteret
+SEQUENCE:0
+SUMMARY:INF264: Forelesninger [INF264]
+URL;VALUE=URI:https://mitt.uib.no/calendar?include_contexts=course_48632&mo
+ nth=10&year=2024#calendar_event_1871503
+X-ALT-DESC;FMTTYPE=text/html:<h3>Sted</h3>\n<div><a href="http://rom.app.ui
+ b.no/romInfo/351/209M3">Stort auditorium</a>\, <a href="https://link.mazem
+ ap.com/34NC9sKG">Høyteknologisenteret</a></div>\n<h3>Fagperson</h3>\n<div
+ ><a href="http://www.uib.no/user/uib/kma026">Ketil Malde</a></div>\n<br><h
+ r>\n<p>Hendelsen blir automatisk generert og vedlikeholdt. Du kan ikke end
+ re den herfra.</p>\n<div style="display: none\;" data-kada-canvas-id="3849
+ 31">##KADA-CANVAS-ID####1723892061##</div>
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240815T165000Z
+UID:event-calendar-event-1874016
+DTSTART:20241014T101500Z
+DTEND:20241014T120000Z
+CLASS:PUBLIC
+DESCRIPTION:Sted\n----\n\n[Stort auditorium] (http://rom.app.uib.no/romInfo
+ /351/209M3)\, [Høyteknologisenteret] (https://link.mazemap.com/34NC9sKG)\
+ n\nFagperson\n---------\n\n[Håkon Robbestad Gylterud] (http://www.uib.no/
+ user/uib/hgy040)\n\nHendelsen blir automatisk generert og vedlikeholdt. Du
+  kan ikke endre den herfra.\n\n##KADA-CANVAS-ID####1723740655##
+LOCATION:Stort auditorium\, Høyteknologisenteret
+SEQUENCE:0
+SUMMARY:INF226: Forelesning [INF226]
+URL;VALUE=URI:https://mitt.uib.no/calendar?include_contexts=course_48769&mo
+ nth=10&year=2024#calendar_event_1874016
+X-ALT-DESC;FMTTYPE=text/html:<h3>Sted</h3>\n<div><a href="http://rom.app.ui
+ b.no/romInfo/351/209M3">Stort auditorium</a>\, <a href="https://link.mazem
+ ap.com/34NC9sKG">Høyteknologisenteret</a></div>\n<h3>Fagperson</h3>\n<div
+ ><a href="http://www.uib.no/user/uib/hgy040">Håkon Robbestad Gylterud</a>
+ </div>\n<br><hr>\n<p>Hendelsen blir automatisk generert og vedlikeholdt. D
+ u kan ikke endre den herfra.</p>\n<div style="display: none\;" data-kada-c
+ anvas-id="384248">##KADA-CANVAS-ID####1723740655##</div>
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240815T165000Z
+UID:event-calendar-event-1874017
+DTSTART:20241016T061500Z
+DTEND:20241016T080000Z
+CLASS:PUBLIC
+DESCRIPTION:Sted\n----\n\n[Stort auditorium] (http://rom.app.uib.no/romInfo
+ /351/209M3)\, [Høyteknologisenteret] (https://link.mazemap.com/34NC9sKG)\
+ n\nFagperson\n---------\n\n[Håkon Robbestad Gylterud] (http://www.uib.no/
+ user/uib/hgy040)\n\nHendelsen blir automatisk generert og vedlikeholdt. Du
+  kan ikke endre den herfra.\n\n##KADA-CANVAS-ID####1723740655##
+LOCATION:Stort auditorium\, Høyteknologisenteret
+SEQUENCE:0
+SUMMARY:INF226: Forelesning [INF226]
+URL;VALUE=URI:https://mitt.uib.no/calendar?include_contexts=course_48769&mo
+ nth=10&year=2024#calendar_event_1874017
+X-ALT-DESC;FMTTYPE=text/html:<h3>Sted</h3>\n<div><a href="http://rom.app.ui
+ b.no/romInfo/351/209M3">Stort auditorium</a>\, <a href="https://link.mazem
+ ap.com/34NC9sKG">Høyteknologisenteret</a></div>\n<h3>Fagperson</h3>\n<div
+ ><a href="http://www.uib.no/user/uib/hgy040">Håkon Robbestad Gylterud</a>
+ </div>\n<br><hr>\n<p>Hendelsen blir automatisk generert og vedlikeholdt. D
+ u kan ikke endre den herfra.</p>\n<div style="display: none\;" data-kada-c
+ anvas-id="384258">##KADA-CANVAS-ID####1723740655##</div>
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240817T105400Z
+UID:event-calendar-event-1871504
+DTSTART:20241016T101500Z
+DTEND:20241016T120000Z
+CLASS:PUBLIC
+DESCRIPTION:Sted\n----\n\n[Stort auditorium] (http://rom.app.uib.no/romInfo
+ /351/209M3)\, [Høyteknologisenteret] (https://link.mazemap.com/34NC9sKG)\
+ n\nFagperson\n---------\n\n[Ketil Malde] (http://www.uib.no/user/uib/kma02
+ 6)\n\nHendelsen blir automatisk generert og vedlikeholdt. Du kan ikke endr
+ e den herfra.\n\n##KADA-CANVAS-ID####1723892062##
+LOCATION:Stort auditorium\, Høyteknologisenteret
+SEQUENCE:0
+SUMMARY:INF264: Forelesninger [INF264]
+URL;VALUE=URI:https://mitt.uib.no/calendar?include_contexts=course_48632&mo
+ nth=10&year=2024#calendar_event_1871504
+X-ALT-DESC;FMTTYPE=text/html:<h3>Sted</h3>\n<div><a href="http://rom.app.ui
+ b.no/romInfo/351/209M3">Stort auditorium</a>\, <a href="https://link.mazem
+ ap.com/34NC9sKG">Høyteknologisenteret</a></div>\n<h3>Fagperson</h3>\n<div
+ ><a href="http://www.uib.no/user/uib/kma026">Ketil Malde</a></div>\n<br><h
+ r>\n<p>Hendelsen blir automatisk generert og vedlikeholdt. Du kan ikke end
+ re den herfra.</p>\n<div style="display: none\;" data-kada-canvas-id="3849
+ 45">##KADA-CANVAS-ID####1723892062##</div>
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240815T165000Z
+UID:event-calendar-event-1874018
+DTSTART:20241021T101500Z
+DTEND:20241021T120000Z
+CLASS:PUBLIC
+DESCRIPTION:Sted\n----\n\n[Stort auditorium] (http://rom.app.uib.no/romInfo
+ /351/209M3)\, [Høyteknologisenteret] (https://link.mazemap.com/34NC9sKG)\
+ n\nFagperson\n---------\n\n[Håkon Robbestad Gylterud] (http://www.uib.no/
+ user/uib/hgy040)\n\nHendelsen blir automatisk generert og vedlikeholdt. Du
+  kan ikke endre den herfra.\n\n##KADA-CANVAS-ID####1723740655##
+LOCATION:Stort auditorium\, Høyteknologisenteret
+SEQUENCE:0
+SUMMARY:INF226: Forelesning [INF226]
+URL;VALUE=URI:https://mitt.uib.no/calendar?include_contexts=course_48769&mo
+ nth=10&year=2024#calendar_event_1874018
+X-ALT-DESC;FMTTYPE=text/html:<h3>Sted</h3>\n<div><a href="http://rom.app.ui
+ b.no/romInfo/351/209M3">Stort auditorium</a>\, <a href="https://link.mazem
+ ap.com/34NC9sKG">Høyteknologisenteret</a></div>\n<h3>Fagperson</h3>\n<div
+ ><a href="http://www.uib.no/user/uib/hgy040">Håkon Robbestad Gylterud</a>
+ </div>\n<br><hr>\n<p>Hendelsen blir automatisk generert og vedlikeholdt. D
+ u kan ikke endre den herfra.</p>\n<div style="display: none\;" data-kada-c
+ anvas-id="384280">##KADA-CANVAS-ID####1723740655##</div>
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240815T165000Z
+UID:event-calendar-event-1874019
+DTSTART:20241023T061500Z
+DTEND:20241023T080000Z
+CLASS:PUBLIC
+DESCRIPTION:Sted\n----\n\n[Stort auditorium] (http://rom.app.uib.no/romInfo
+ /351/209M3)\, [Høyteknologisenteret] (https://link.mazemap.com/34NC9sKG)\
+ n\nFagperson\n---------\n\n[Håkon Robbestad Gylterud] (http://www.uib.no/
+ user/uib/hgy040)\n\nHendelsen blir automatisk generert og vedlikeholdt. Du
+  kan ikke endre den herfra.\n\n##KADA-CANVAS-ID####1723740656##
+LOCATION:Stort auditorium\, Høyteknologisenteret
+SEQUENCE:0
+SUMMARY:INF226: Forelesning [INF226]
+URL;VALUE=URI:https://mitt.uib.no/calendar?include_contexts=course_48769&mo
+ nth=10&year=2024#calendar_event_1874019
+X-ALT-DESC;FMTTYPE=text/html:<h3>Sted</h3>\n<div><a href="http://rom.app.ui
+ b.no/romInfo/351/209M3">Stort auditorium</a>\, <a href="https://link.mazem
+ ap.com/34NC9sKG">Høyteknologisenteret</a></div>\n<h3>Fagperson</h3>\n<div
+ ><a href="http://www.uib.no/user/uib/hgy040">Håkon Robbestad Gylterud</a>
+ </div>\n<br><hr>\n<p>Hendelsen blir automatisk generert og vedlikeholdt. D
+ u kan ikke endre den herfra.</p>\n<div style="display: none\;" data-kada-c
+ anvas-id="384284">##KADA-CANVAS-ID####1723740656##</div>
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240817T105400Z
+UID:event-calendar-event-1871505
+DTSTART:20241023T101500Z
+DTEND:20241023T120000Z
+CLASS:PUBLIC
+DESCRIPTION:Sted\n----\n\n[Stort auditorium] (http://rom.app.uib.no/romInfo
+ /351/209M3)\, [Høyteknologisenteret] (https://link.mazemap.com/34NC9sKG)\
+ n\nFagperson\n---------\n\n[Ketil Malde] (http://www.uib.no/user/uib/kma02
+ 6)\n\nHendelsen blir automatisk generert og vedlikeholdt. Du kan ikke endr
+ e den herfra.\n\n##KADA-CANVAS-ID####1723892062##
+LOCATION:Stort auditorium\, Høyteknologisenteret
+SEQUENCE:0
+SUMMARY:INF264: Forelesninger [INF264]
+URL;VALUE=URI:https://mitt.uib.no/calendar?include_contexts=course_48632&mo
+ nth=10&year=2024#calendar_event_1871505
+X-ALT-DESC;FMTTYPE=text/html:<h3>Sted</h3>\n<div><a href="http://rom.app.ui
+ b.no/romInfo/351/209M3">Stort auditorium</a>\, <a href="https://link.mazem
+ ap.com/34NC9sKG">Høyteknologisenteret</a></div>\n<h3>Fagperson</h3>\n<div
+ ><a href="http://www.uib.no/user/uib/kma026">Ketil Malde</a></div>\n<br><h
+ r>\n<p>Hendelsen blir automatisk generert og vedlikeholdt. Du kan ikke end
+ re den herfra.</p>\n<div style="display: none\;" data-kada-canvas-id="3849
+ 59">##KADA-CANVAS-ID####1723892062##</div>
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240817T105400Z
+UID:event-calendar-event-1871506
+DTSTART:20241024T121500Z
+DTEND:20241024T140000Z
+CLASS:PUBLIC
+DESCRIPTION:Sted\n----\n\n[Stort auditorium] (http://rom.app.uib.no/romInfo
+ /351/209M3)\, [Høyteknologisenteret] (https://link.mazemap.com/34NC9sKG)\
+ n\nFagperson\n---------\n\n[Ketil Malde] (http://www.uib.no/user/uib/kma02
+ 6)\n\nHendelsen blir automatisk generert og vedlikeholdt. Du kan ikke endr
+ e den herfra.\n\n##KADA-CANVAS-ID####1723892062##
+LOCATION:Stort auditorium\, Høyteknologisenteret
+SEQUENCE:0
+SUMMARY:INF264: Forelesninger [INF264]
+URL;VALUE=URI:https://mitt.uib.no/calendar?include_contexts=course_48632&mo
+ nth=10&year=2024#calendar_event_1871506
+X-ALT-DESC;FMTTYPE=text/html:<h3>Sted</h3>\n<div><a href="http://rom.app.ui
+ b.no/romInfo/351/209M3">Stort auditorium</a>\, <a href="https://link.mazem
+ ap.com/34NC9sKG">Høyteknologisenteret</a></div>\n<h3>Fagperson</h3>\n<div
+ ><a href="http://www.uib.no/user/uib/kma026">Ketil Malde</a></div>\n<br><h
+ r>\n<p>Hendelsen blir automatisk generert og vedlikeholdt. Du kan ikke end
+ re den herfra.</p>\n<div style="display: none\;" data-kada-canvas-id="3849
+ 61">##KADA-CANVAS-ID####1723892062##</div>
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240815T165000Z
+UID:event-calendar-event-1874020
+DTSTART:20241028T111500Z
+DTEND:20241028T130000Z
+CLASS:PUBLIC
+DESCRIPTION:Sted\n----\n\n[Stort auditorium] (http://rom.app.uib.no/romInfo
+ /351/209M3)\, [Høyteknologisenteret] (https://link.mazemap.com/34NC9sKG)\
+ n\nFagperson\n---------\n\n[Håkon Robbestad Gylterud] (http://www.uib.no/
+ user/uib/hgy040)\n\nHendelsen blir automatisk generert og vedlikeholdt. Du
+  kan ikke endre den herfra.\n\n##KADA-CANVAS-ID####1723740656##
+LOCATION:Stort auditorium\, Høyteknologisenteret
+SEQUENCE:0
+SUMMARY:INF226: Forelesning [INF226]
+URL;VALUE=URI:https://mitt.uib.no/calendar?include_contexts=course_48769&mo
+ nth=10&year=2024#calendar_event_1874020
+X-ALT-DESC;FMTTYPE=text/html:<h3>Sted</h3>\n<div><a href="http://rom.app.ui
+ b.no/romInfo/351/209M3">Stort auditorium</a>\, <a href="https://link.mazem
+ ap.com/34NC9sKG">Høyteknologisenteret</a></div>\n<h3>Fagperson</h3>\n<div
+ ><a href="http://www.uib.no/user/uib/hgy040">Håkon Robbestad Gylterud</a>
+ </div>\n<br><hr>\n<p>Hendelsen blir automatisk generert og vedlikeholdt. D
+ u kan ikke endre den herfra.</p>\n<div style="display: none\;" data-kada-c
+ anvas-id="384306">##KADA-CANVAS-ID####1723740656##</div>
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240815T165000Z
+UID:event-calendar-event-1874021
+DTSTART:20241030T071500Z
+DTEND:20241030T090000Z
+CLASS:PUBLIC
+DESCRIPTION:Sted\n----\n\n[Stort auditorium] (http://rom.app.uib.no/romInfo
+ /351/209M3)\, [Høyteknologisenteret] (https://link.mazemap.com/34NC9sKG)\
+ n\nFagperson\n---------\n\n[Håkon Robbestad Gylterud] (http://www.uib.no/
+ user/uib/hgy040)\n\nHendelsen blir automatisk generert og vedlikeholdt. Du
+  kan ikke endre den herfra.\n\n##KADA-CANVAS-ID####1723740656##
+LOCATION:Stort auditorium\, Høyteknologisenteret
+SEQUENCE:0
+SUMMARY:INF226: Forelesning [INF226]
+URL;VALUE=URI:https://mitt.uib.no/calendar?include_contexts=course_48769&mo
+ nth=10&year=2024#calendar_event_1874021
+X-ALT-DESC;FMTTYPE=text/html:<h3>Sted</h3>\n<div><a href="http://rom.app.ui
+ b.no/romInfo/351/209M3">Stort auditorium</a>\, <a href="https://link.mazem
+ ap.com/34NC9sKG">Høyteknologisenteret</a></div>\n<h3>Fagperson</h3>\n<div
+ ><a href="http://www.uib.no/user/uib/hgy040">Håkon Robbestad Gylterud</a>
+ </div>\n<br><hr>\n<p>Hendelsen blir automatisk generert og vedlikeholdt. D
+ u kan ikke endre den herfra.</p>\n<div style="display: none\;" data-kada-c
+ anvas-id="384312">##KADA-CANVAS-ID####1723740656##</div>
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240817T105400Z
+UID:event-calendar-event-1871507
+DTSTART:20241030T111500Z
+DTEND:20241030T130000Z
+CLASS:PUBLIC
+DESCRIPTION:Sted\n----\n\n[Stort auditorium] (http://rom.app.uib.no/romInfo
+ /351/209M3)\, [Høyteknologisenteret] (https://link.mazemap.com/34NC9sKG)\
+ n\nFagperson\n---------\n\n[Ketil Malde] (http://www.uib.no/user/uib/kma02
+ 6)\n\nHendelsen blir automatisk generert og vedlikeholdt. Du kan ikke endr
+ e den herfra.\n\n##KADA-CANVAS-ID####1723892063##
+LOCATION:Stort auditorium\, Høyteknologisenteret
+SEQUENCE:0
+SUMMARY:INF264: Forelesninger [INF264]
+URL;VALUE=URI:https://mitt.uib.no/calendar?include_contexts=course_48632&mo
+ nth=10&year=2024#calendar_event_1871507
+X-ALT-DESC;FMTTYPE=text/html:<h3>Sted</h3>\n<div><a href="http://rom.app.ui
+ b.no/romInfo/351/209M3">Stort auditorium</a>\, <a href="https://link.mazem
+ ap.com/34NC9sKG">Høyteknologisenteret</a></div>\n<h3>Fagperson</h3>\n<div
+ ><a href="http://www.uib.no/user/uib/kma026">Ketil Malde</a></div>\n<br><h
+ r>\n<p>Hendelsen blir automatisk generert og vedlikeholdt. Du kan ikke end
+ re den herfra.</p>\n<div style="display: none\;" data-kada-canvas-id="3849
+ 77">##KADA-CANVAS-ID####1723892063##</div>
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240817T105400Z
+UID:event-calendar-event-1871508
+DTSTART:20241031T131500Z
+DTEND:20241031T150000Z
+CLASS:PUBLIC
+DESCRIPTION:Sted\n----\n\n[Stort auditorium] (http://rom.app.uib.no/romInfo
+ /351/209M3)\, [Høyteknologisenteret] (https://link.mazemap.com/34NC9sKG)\
+ n\nFagperson\n---------\n\n[Ketil Malde] (http://www.uib.no/user/uib/kma02
+ 6)\n\nHendelsen blir automatisk generert og vedlikeholdt. Du kan ikke endr
+ e den herfra.\n\n##KADA-CANVAS-ID####1723892063##
+LOCATION:Stort auditorium\, Høyteknologisenteret
+SEQUENCE:0
+SUMMARY:INF264: Forelesninger [INF264]
+URL;VALUE=URI:https://mitt.uib.no/calendar?include_contexts=course_48632&mo
+ nth=10&year=2024#calendar_event_1871508
+X-ALT-DESC;FMTTYPE=text/html:<h3>Sted</h3>\n<div><a href="http://rom.app.ui
+ b.no/romInfo/351/209M3">Stort auditorium</a>\, <a href="https://link.mazem
+ ap.com/34NC9sKG">Høyteknologisenteret</a></div>\n<h3>Fagperson</h3>\n<div
+ ><a href="http://www.uib.no/user/uib/kma026">Ketil Malde</a></div>\n<br><h
+ r>\n<p>Hendelsen blir automatisk generert og vedlikeholdt. Du kan ikke end
+ re den herfra.</p>\n<div style="display: none\;" data-kada-canvas-id="3849
+ 80">##KADA-CANVAS-ID####1723892063##</div>
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240815T165000Z
+UID:event-calendar-event-1874022
+DTSTART:20241104T111500Z
+DTEND:20241104T130000Z
+CLASS:PUBLIC
+DESCRIPTION:Sted\n----\n\n[Stort auditorium] (http://rom.app.uib.no/romInfo
+ /351/209M3)\, [Høyteknologisenteret] (https://link.mazemap.com/34NC9sKG)\
+ n\nFagperson\n---------\n\n[Håkon Robbestad Gylterud] (http://www.uib.no/
+ user/uib/hgy040)\n\nHendelsen blir automatisk generert og vedlikeholdt. Du
+  kan ikke endre den herfra.\n\n##KADA-CANVAS-ID####1723740656##
+LOCATION:Stort auditorium\, Høyteknologisenteret
+SEQUENCE:0
+SUMMARY:INF226: Forelesning [INF226]
+URL;VALUE=URI:https://mitt.uib.no/calendar?include_contexts=course_48769&mo
+ nth=11&year=2024#calendar_event_1874022
+X-ALT-DESC;FMTTYPE=text/html:<h3>Sted</h3>\n<div><a href="http://rom.app.ui
+ b.no/romInfo/351/209M3">Stort auditorium</a>\, <a href="https://link.mazem
+ ap.com/34NC9sKG">Høyteknologisenteret</a></div>\n<h3>Fagperson</h3>\n<div
+ ><a href="http://www.uib.no/user/uib/hgy040">Håkon Robbestad Gylterud</a>
+ </div>\n<br><hr>\n<p>Hendelsen blir automatisk generert og vedlikeholdt. D
+ u kan ikke endre den herfra.</p>\n<div style="display: none\;" data-kada-c
+ anvas-id="384339">##KADA-CANVAS-ID####1723740656##</div>
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240815T165000Z
+UID:event-calendar-event-1874023
+DTSTART:20241106T071500Z
+DTEND:20241106T090000Z
+CLASS:PUBLIC
+DESCRIPTION:Sted\n----\n\n[Stort auditorium] (http://rom.app.uib.no/romInfo
+ /351/209M3)\, [Høyteknologisenteret] (https://link.mazemap.com/34NC9sKG)\
+ n\nFagperson\n---------\n\n[Håkon Robbestad Gylterud] (http://www.uib.no/
+ user/uib/hgy040)\n\nHendelsen blir automatisk generert og vedlikeholdt. Du
+  kan ikke endre den herfra.\n\n##KADA-CANVAS-ID####1723740656##
+LOCATION:Stort auditorium\, Høyteknologisenteret
+SEQUENCE:0
+SUMMARY:INF226: Forelesning [INF226]
+URL;VALUE=URI:https://mitt.uib.no/calendar?include_contexts=course_48769&mo
+ nth=11&year=2024#calendar_event_1874023
+X-ALT-DESC;FMTTYPE=text/html:<h3>Sted</h3>\n<div><a href="http://rom.app.ui
+ b.no/romInfo/351/209M3">Stort auditorium</a>\, <a href="https://link.mazem
+ ap.com/34NC9sKG">Høyteknologisenteret</a></div>\n<h3>Fagperson</h3>\n<div
+ ><a href="http://www.uib.no/user/uib/hgy040">Håkon Robbestad Gylterud</a>
+ </div>\n<br><hr>\n<p>Hendelsen blir automatisk generert og vedlikeholdt. D
+ u kan ikke endre den herfra.</p>\n<div style="display: none\;" data-kada-c
+ anvas-id="384345">##KADA-CANVAS-ID####1723740656##</div>
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240817T105400Z
+UID:event-calendar-event-1871509
+DTSTART:20241106T111500Z
+DTEND:20241106T130000Z
+CLASS:PUBLIC
+DESCRIPTION:Sted\n----\n\n[Stort auditorium] (http://rom.app.uib.no/romInfo
+ /351/209M3)\, [Høyteknologisenteret] (https://link.mazemap.com/34NC9sKG)\
+ n\nFagperson\n---------\n\n[Ketil Malde] (http://www.uib.no/user/uib/kma02
+ 6)\n\nHendelsen blir automatisk generert og vedlikeholdt. Du kan ikke endr
+ e den herfra.\n\n##KADA-CANVAS-ID####1723892063##
+LOCATION:Stort auditorium\, Høyteknologisenteret
+SEQUENCE:0
+SUMMARY:INF264: Forelesninger [INF264]
+URL;VALUE=URI:https://mitt.uib.no/calendar?include_contexts=course_48632&mo
+ nth=11&year=2024#calendar_event_1871509
+X-ALT-DESC;FMTTYPE=text/html:<h3>Sted</h3>\n<div><a href="http://rom.app.ui
+ b.no/romInfo/351/209M3">Stort auditorium</a>\, <a href="https://link.mazem
+ ap.com/34NC9sKG">Høyteknologisenteret</a></div>\n<h3>Fagperson</h3>\n<div
+ ><a href="http://www.uib.no/user/uib/kma026">Ketil Malde</a></div>\n<br><h
+ r>\n<p>Hendelsen blir automatisk generert og vedlikeholdt. Du kan ikke end
+ re den herfra.</p>\n<div style="display: none\;" data-kada-canvas-id="3849
+ 99">##KADA-CANVAS-ID####1723892063##</div>
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240817T105400Z
+UID:event-calendar-event-1871510
+DTSTART:20241107T131500Z
+DTEND:20241107T150000Z
+CLASS:PUBLIC
+DESCRIPTION:Sted\n----\n\n[Stort auditorium] (http://rom.app.uib.no/romInfo
+ /351/209M3)\, [Høyteknologisenteret] (https://link.mazemap.com/34NC9sKG)\
+ n\nFagperson\n---------\n\n[Ketil Malde] (http://www.uib.no/user/uib/kma02
+ 6)\n\nHendelsen blir automatisk generert og vedlikeholdt. Du kan ikke endr
+ e den herfra.\n\n##KADA-CANVAS-ID####1723892063##
+LOCATION:Stort auditorium\, Høyteknologisenteret
+SEQUENCE:0
+SUMMARY:INF264: Forelesninger [INF264]
+URL;VALUE=URI:https://mitt.uib.no/calendar?include_contexts=course_48632&mo
+ nth=11&year=2024#calendar_event_1871510
+X-ALT-DESC;FMTTYPE=text/html:<h3>Sted</h3>\n<div><a href="http://rom.app.ui
+ b.no/romInfo/351/209M3">Stort auditorium</a>\, <a href="https://link.mazem
+ ap.com/34NC9sKG">Høyteknologisenteret</a></div>\n<h3>Fagperson</h3>\n<div
+ ><a href="http://www.uib.no/user/uib/kma026">Ketil Malde</a></div>\n<br><h
+ r>\n<p>Hendelsen blir automatisk generert og vedlikeholdt. Du kan ikke end
+ re den herfra.</p>\n<div style="display: none\;" data-kada-canvas-id="3850
+ 01">##KADA-CANVAS-ID####1723892063##</div>
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240815T165000Z
+UID:event-calendar-event-1874024
+DTSTART:20241111T111500Z
+DTEND:20241111T130000Z
+CLASS:PUBLIC
+DESCRIPTION:Sted\n----\n\n[Stort auditorium] (http://rom.app.uib.no/romInfo
+ /351/209M3)\, [Høyteknologisenteret] (https://link.mazemap.com/34NC9sKG)\
+ n\nFagperson\n---------\n\n[Håkon Robbestad Gylterud] (http://www.uib.no/
+ user/uib/hgy040)\n\nHendelsen blir automatisk generert og vedlikeholdt. Du
+  kan ikke endre den herfra.\n\n##KADA-CANVAS-ID####1723740657##
+LOCATION:Stort auditorium\, Høyteknologisenteret
+SEQUENCE:0
+SUMMARY:INF226: Forelesning [INF226]
+URL;VALUE=URI:https://mitt.uib.no/calendar?include_contexts=course_48769&mo
+ nth=11&year=2024#calendar_event_1874024
+X-ALT-DESC;FMTTYPE=text/html:<h3>Sted</h3>\n<div><a href="http://rom.app.ui
+ b.no/romInfo/351/209M3">Stort auditorium</a>\, <a href="https://link.mazem
+ ap.com/34NC9sKG">Høyteknologisenteret</a></div>\n<h3>Fagperson</h3>\n<div
+ ><a href="http://www.uib.no/user/uib/hgy040">Håkon Robbestad Gylterud</a>
+ </div>\n<br><hr>\n<p>Hendelsen blir automatisk generert og vedlikeholdt. D
+ u kan ikke endre den herfra.</p>\n<div style="display: none\;" data-kada-c
+ anvas-id="384359">##KADA-CANVAS-ID####1723740657##</div>
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240815T165000Z
+UID:event-calendar-event-1874025
+DTSTART:20241113T071500Z
+DTEND:20241113T090000Z
+CLASS:PUBLIC
+DESCRIPTION:Sted\n----\n\n[Stort auditorium] (http://rom.app.uib.no/romInfo
+ /351/209M3)\, [Høyteknologisenteret] (https://link.mazemap.com/34NC9sKG)\
+ n\nFagperson\n---------\n\n[Håkon Robbestad Gylterud] (http://www.uib.no/
+ user/uib/hgy040)\n\nHendelsen blir automatisk generert og vedlikeholdt. Du
+  kan ikke endre den herfra.\n\n##KADA-CANVAS-ID####1723740657##
+LOCATION:Stort auditorium\, Høyteknologisenteret
+SEQUENCE:0
+SUMMARY:INF226: Forelesning [INF226]
+URL;VALUE=URI:https://mitt.uib.no/calendar?include_contexts=course_48769&mo
+ nth=11&year=2024#calendar_event_1874025
+X-ALT-DESC;FMTTYPE=text/html:<h3>Sted</h3>\n<div><a href="http://rom.app.ui
+ b.no/romInfo/351/209M3">Stort auditorium</a>\, <a href="https://link.mazem
+ ap.com/34NC9sKG">Høyteknologisenteret</a></div>\n<h3>Fagperson</h3>\n<div
+ ><a href="http://www.uib.no/user/uib/hgy040">Håkon Robbestad Gylterud</a>
+ </div>\n<br><hr>\n<p>Hendelsen blir automatisk generert og vedlikeholdt. D
+ u kan ikke endre den herfra.</p>\n<div style="display: none\;" data-kada-c
+ anvas-id="384361">##KADA-CANVAS-ID####1723740657##</div>
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240817T105400Z
+UID:event-calendar-event-1871511
+DTSTART:20241113T111500Z
+DTEND:20241113T130000Z
+CLASS:PUBLIC
+DESCRIPTION:Sted\n----\n\n[Stort auditorium] (http://rom.app.uib.no/romInfo
+ /351/209M3)\, [Høyteknologisenteret] (https://link.mazemap.com/34NC9sKG)\
+ n\nFagperson\n---------\n\n[Ketil Malde] (http://www.uib.no/user/uib/kma02
+ 6)\n\nHendelsen blir automatisk generert og vedlikeholdt. Du kan ikke endr
+ e den herfra.\n\n##KADA-CANVAS-ID####1723892063##
+LOCATION:Stort auditorium\, Høyteknologisenteret
+SEQUENCE:0
+SUMMARY:INF264: Forelesninger [INF264]
+URL;VALUE=URI:https://mitt.uib.no/calendar?include_contexts=course_48632&mo
+ nth=11&year=2024#calendar_event_1871511
+X-ALT-DESC;FMTTYPE=text/html:<h3>Sted</h3>\n<div><a href="http://rom.app.ui
+ b.no/romInfo/351/209M3">Stort auditorium</a>\, <a href="https://link.mazem
+ ap.com/34NC9sKG">Høyteknologisenteret</a></div>\n<h3>Fagperson</h3>\n<div
+ ><a href="http://www.uib.no/user/uib/kma026">Ketil Malde</a></div>\n<br><h
+ r>\n<p>Hendelsen blir automatisk generert og vedlikeholdt. Du kan ikke end
+ re den herfra.</p>\n<div style="display: none\;" data-kada-canvas-id="3850
+ 09">##KADA-CANVAS-ID####1723892063##</div>
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240817T105400Z
+UID:event-calendar-event-1871512
+DTSTART:20241114T131500Z
+DTEND:20241114T150000Z
+CLASS:PUBLIC
+DESCRIPTION:Sted\n----\n\n[Stort auditorium] (http://rom.app.uib.no/romInfo
+ /351/209M3)\, [Høyteknologisenteret] (https://link.mazemap.com/34NC9sKG)\
+ n\nFagperson\n---------\n\n[Ketil Malde] (http://www.uib.no/user/uib/kma02
+ 6)\n\nHendelsen blir automatisk generert og vedlikeholdt. Du kan ikke endr
+ e den herfra.\n\n##KADA-CANVAS-ID####1723892064##
+LOCATION:Stort auditorium\, Høyteknologisenteret
+SEQUENCE:0
+SUMMARY:INF264: Forelesninger [INF264]
+URL;VALUE=URI:https://mitt.uib.no/calendar?include_contexts=course_48632&mo
+ nth=11&year=2024#calendar_event_1871512
+X-ALT-DESC;FMTTYPE=text/html:<h3>Sted</h3>\n<div><a href="http://rom.app.ui
+ b.no/romInfo/351/209M3">Stort auditorium</a>\, <a href="https://link.mazem
+ ap.com/34NC9sKG">Høyteknologisenteret</a></div>\n<h3>Fagperson</h3>\n<div
+ ><a href="http://www.uib.no/user/uib/kma026">Ketil Malde</a></div>\n<br><h
+ r>\n<p>Hendelsen blir automatisk generert og vedlikeholdt. Du kan ikke end
+ re den herfra.</p>\n<div style="display: none\;" data-kada-canvas-id="3850
+ 11">##KADA-CANVAS-ID####1723892064##</div>
+END:VEVENT
+END:VCALENDAR
