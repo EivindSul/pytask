@@ -1,0 +1,64 @@
+# UIB
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:icalendar-ruby
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Eivind Sulen-kalender i Canvas
+X-WR-CALDESC:Kalenderhendingar for brukaren Eivind Sulen
+
+# HVL
+BEGIN:VCALENDAR
+VERSION:2.0
+METHOD:PUBLISH
+X-WR-CALNAME:TimeEdit-189022-20240801
+X-WR-CALDESC:Date limit 05.08.2024 - 19.08.2029
+X-PUBLISHED-TTL:PT20M
+CALSCALE:GREGORIAN
+PRODID:-//TimeEdit\\\, //TimeEdit//EN
+
+BEGIN:VEVENT
+DTSTAMP:20240815T210700Z
+UID:event-calendar-event-1871487
+DTSTART:20240819T061500Z
+DTEND:20240819T080000Z
+CLASS:PUBLIC
+DESCRIPTION:Steder\n------\n\n[Auditorium] (http://rom.app.uib.no/romInfo/3
+ 57/M04)\, [Thormøhlens gate 51 (VilVite)] (http://maps.google.com/maps?f=
+ q&hl=no&q=Thormohlens%20gate%2051\,Bergen\,Norway)\n\n[Aktivt rom 2+3 - Ma
+ rineholmen] (https://use.mazemap.com/?v=1&campuses=uib&sharepoitype=identi
+ fier&config=uib-bergen&sharepoi=351:106O1)\, [Høyteknologisenteret] (http
+ s://link.mazemap.com/34NC9sKG)\n\nHendelsen blir automatisk generert og ve
+ dlikeholdt. Du kan ikke endre den herfra.\n\n##KADA-CANVAS-ID####172375602
+ 9##
+LOCATION:
+SEQUENCE:0
+SUMMARY:INF264: Kræsjkurs i Python frivillig [INF264]
+URL;VALUE=URI:https://mitt.uib.no/calendar?include_contexts=course_48632&mo
+ nth=08&year=2024#calendar_event_1871487
+X-ALT-DESC;FMTTYPE=text/html:<h3>Steder</h3>\n<div><a href="http://rom.app.
+ uib.no/romInfo/357/M04">Auditorium</a>\, <a href="http://maps.google.com/m
+ aps?f=q&amp\;hl=no&amp\;q=Thormohlens%20gate%2051\,Bergen\,Norway">Thormø
+ hlens gate 51 (VilVite)</a></div>\n<div><a href="https://use.mazemap.com/?
+ v=1&amp\;campuses=uib&amp\;sharepoitype=identifier&amp\;config=uib-bergen&
+ amp\;sharepoi=351:106O1">Aktivt rom 2+3 - Marineholmen</a>\, <a href="http
+ s://link.mazemap.com/34NC9sKG">Høyteknologisenteret</a></div>\n<br><hr>\n
+ <p>Hendelsen blir automatisk generert og vedlikeholdt. Du kan ikke endre d
+ en herfra.</p>\n<div style="display: none\;" data-kada-canvas-id="384830">
+ ##KADA-CANVAS-ID####1723756029##</div>
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART:20240820T101500Z
+DTEND:20240820T120000Z
+UID:1452438--425820140-0@timeedit.com
+DTSTAMP:20240819T182647Z
+LAST-MODIFIED:20240819T182647Z
+SUMMARY:DPU-MA_2023_HØST\, Emne: DAT351
+LOCATION:B313
+DESCRIPTION:Lærer: Kileng Bjarte \nLær
+ er: Reme-Ness Haakon André\nID 1452
+ 438
+END:VEVENT
+
+END:VCALENDAR
