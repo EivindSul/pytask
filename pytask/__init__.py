@@ -4,8 +4,10 @@ import re
 import requests
 
 hvl = requests.get("https://cloud.timeedit.net/hvl/web/studbergen/ri6795Q03k22u1QZQtQn39CQZQ8QY96dZ6328Z0y66809wtZ485ZF29A20ABB0EA8CBF6000A415E04F.ics")
+hvl.raise_for_status()
 hvl = hvl.text
 uib = requests.get("https://mitt.uib.no/feeds/calendars/user_urR0om7uZCMG1dcgcIpFOg1hx926MEjktxJQTPwA.ics")
+uib.raise_for_status()
 uib = uib.text
 
 print("\n------------ UiB -------------\n")
